@@ -8,7 +8,7 @@ This approach will cover the text extraction for different components in PDFs su
 - Tables
 - Images in the PDF
 
-For the full guide you can read my article on Medium: https://bit.ly/3RtPuCw
+For the full guide you can call me directly. [Feel free with me](mailto:marlon.labor.delatorre@gmail.com): 
 
 To achieve that we will use the **PDFMiner** library to perform an initial analysis of the layout of the PDF and identify the proper tool needed for the specific component.
 Then based on the component found we will apply the appropriate function and Python Library. 
