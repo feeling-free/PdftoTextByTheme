@@ -12,8 +12,14 @@ from pdf2image import convert_from_path
 import pytesseract 
 # To remove the additional created files
 import os
+# To get server system info 
+import platform
+# To streamlit server funtion
+import streamlit
 
 # Create function to extract text
+
+print(platform.system())
 
 def text_extraction(element):
     # Extracting the text from the in line text element
